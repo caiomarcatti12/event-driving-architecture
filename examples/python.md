@@ -1,6 +1,5 @@
 # Exemplo com python
 
-
 ```
 def button_clicked(event):
   print("Button was clicked!")

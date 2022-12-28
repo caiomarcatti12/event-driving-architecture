@@ -12,7 +12,7 @@ No geral, a programação orientada a eventos é um ajuste natural para sistemas
 
 
 ## Exemplo de fluxo
-
+```
 +------------+
 |  Producer  |
 +------------+
@@ -29,7 +29,7 @@ No geral, a programação orientada a eventos é um ajuste natural para sistemas
 +------------+
 |  Consumer  |
 +------------+
-
+```
 
 Neste exemplo, o produtor envia uma mensagem para o message broker, que então encaminha a mensagem para o consumidor. 
 
